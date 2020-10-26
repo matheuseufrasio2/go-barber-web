@@ -29,6 +29,10 @@
     "prettier"
   ],
   "rules": {
+    "import/no-unresolved": "off",
+    "no-unused-expressions": "off",
+    "@typescript-eslint/ban-types":"off",
+    "no-console": "off",
     "react/prop-types": "off",
     "react/jsx-props-no-spreading": "off",
     "no-use-before-define": "off",
