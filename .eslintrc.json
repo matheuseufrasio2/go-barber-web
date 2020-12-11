@@ -29,6 +29,8 @@
     "prettier"
   ],
   "rules": {
+    "import/no-duplicates": "off",
+    "camelcase": "off",
     "import/no-unresolved": "off",
     "no-unused-expressions": "off",
     "@typescript-eslint/ban-types":"off",
